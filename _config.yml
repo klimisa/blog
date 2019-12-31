@@ -21,8 +21,8 @@
 title: Antonios Kλimis Personal Blog
 email: antonios.klimis@gmail.com
 description:
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://klimisa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: antoniosklimis
 github_username: klimisa
 

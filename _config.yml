@@ -36,7 +36,7 @@ minima:
 permalink: /:year/:month/:day/:title.html
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 

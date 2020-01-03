@@ -23,8 +23,15 @@ email: antonios.klimis@gmail.com
 description:
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://klimisa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: antoniosklimis
-github_username: klimisa
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: antoniosklimis
+    github: klimisa
+    rss: rss
 
 permalink: /:year/:month/:day/:title.html
 

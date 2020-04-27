@@ -69,3 +69,7 @@ There are two ways to achieve,
 2. User requests as probes
 
 Both formulas can be used Incident ratio and Success ratio.
+
+## References
+
+Tamas Hauer, Philipp Hoffmann, John Lunney, Dan Ardelean and Amer Diwan _Google_ [Meaningful Availability](https://www.usenix.org/conference/nsdi20/presentation/hauer)

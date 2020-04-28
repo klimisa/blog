@@ -71,9 +71,6 @@ There are two ways to achieve,
 
 Both formulas can be used Incident ratio and Success ratio.
 
-The below video expands on the paper analysed above.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7TY8RaolprI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## References
 
 Paper:

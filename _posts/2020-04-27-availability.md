@@ -15,7 +15,6 @@ A good availability metric should be:
 `Propotional` means that a change in the metric should be propotianal to the user-perceived the change.
 `Actionable` means giving insights why availability for a period was so low.
 
-Key points of the paper in reference
 ### Quantify Availability
 
 The two most common approaches to quantify availability are _Success ratio_ and _Incident ratio_.

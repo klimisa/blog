@@ -15,6 +15,7 @@ A good availability metric should be:
 `Propotional` means that a change in the metric should be propotianal to the user-perceived the change.
 `Actionable` means giving insights why availability for a period was so low.
 
+Key points of the paper in reference
 ### Quantify Availability
 
 The two most common approaches to quantify availability are _Success ratio_ and _Incident ratio_.
@@ -70,6 +71,15 @@ There are two ways to achieve,
 
 Both formulas can be used Incident ratio and Success ratio.
 
+The below video expands on the paper analysed above.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7TY8RaolprI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## References
 
+Paper:
+
 Tamas Hauer, Philipp Hoffmann, John Lunney, Dan Ardelean and Amer Diwan _Google_ [Meaningful Availability](https://www.usenix.org/conference/nsdi20/presentation/hauer)
+
+Video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7TY8RaolprI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

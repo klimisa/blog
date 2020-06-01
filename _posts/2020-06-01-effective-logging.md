@@ -10,7 +10,7 @@ Logging is hard. In order for logging to be effective the following properties s
 3. Easily consumable
 4. Improve fixing problems
 5. Enable deeper understanding
-6. Prioritisation
+6. Add prioritisation
 
 ### Good and consistent information
 

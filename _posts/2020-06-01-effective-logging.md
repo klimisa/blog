@@ -33,7 +33,7 @@ Most importantly it should be able to give answers to following questions,
 
 Avoid try-catch everywhere.
  
-To create default entries that we are interested in,
+To create default entries that you are interested in,
  
 - Use global handlers
 - Filters

@@ -1,7 +1,16 @@
-﻿﻿---
+﻿---
 layout: post
 title: Effective Logging
 ---
+
+Logging is hard. In order for logging to be effective the following properties should exist,
+ 
+1. Good and consistent information
+2. Keep application clean
+3. Easily consumable
+4. Improve fixing problems
+5. Enable deeper understanding
+6. Prioritisation
 
 ### Good and consistent information
 

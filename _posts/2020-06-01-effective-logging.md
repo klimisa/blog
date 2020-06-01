@@ -70,3 +70,7 @@ You can base on your aggregation on,
 
 - Shared volume of activities.
 - Which users are effected.
+
+### References
+
+[Effective logging](https://www.pluralsight.com/courses/asp-dotnet-core-effective-logging), Erik Dahl

@@ -39,7 +39,7 @@ Most importantly it should be able to give answers to following questions,
  - Filters
  - Attributes
  
- Logging should not affect the performance or the behavior of the application
+ Logging should not affect the performance or the behavior of the application.
  
  ### Easily consumable
  

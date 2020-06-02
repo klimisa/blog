@@ -66,7 +66,7 @@ Good aggregation help you with prioritisation.
 - Which error should I fix first
 - Which should be the next performance improvement.
 
-You can base on your aggregation on,
+You can base your aggregation upon,
 
 - Shared volume of activities.
 - Which users are effected.
